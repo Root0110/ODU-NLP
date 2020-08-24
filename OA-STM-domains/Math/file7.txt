@@ -1,0 +1,41 @@
+-DOCSTART-	
+	
+We	O
+enumerate	O
+and	O
+describe	O
+the	B-Data
+Sylow	I-Data
+p	I-Data
+-	I-Data
+groups	I-Data
+of	O
+the	B-Data
+groups	I-Data
+of	O
+polynomial	B-Process
+permutations	I-Process
+of	O
+the	B-Data
+integers	I-Data
+mod	B-Process
+pn	I-Process
+for	O
+n⩾1	B-Data
+and	O
+of	O
+the	B-Data
+pro	I-Data
+-	I-Data
+finite	I-Data
+group	I-Data
+which	O
+is	O
+the	B-Data
+projective	I-Data
+limit	I-Data
+of	O
+these	B-Data
+groups	I-Data
+.	O
+	

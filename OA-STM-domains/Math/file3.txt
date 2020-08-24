@@ -1,0 +1,67 @@
+-DOCSTART-	
+	
+In	O
+this	O
+note	O
+we	O
+show	O
+how	O
+to	O
+include	O
+low	B-Data
+order	I-Data
+terms	I-Data
+in	O
+the	B-Data
+C∞	I-Data
+well	I-Data
+-	I-Data
+posedness	I-Data
+results	I-Data
+for	O
+weakly	B-Process
+hyperbolic	I-Process
+equations	I-Process
+with	O
+analytic	B-Data
+time	I-Data
+-	I-Data
+dependent	I-Data
+coefficients	I-Data
+.	O
+	
+This	O
+is	O
+achieved	O
+by	O
+doing	O
+a	O
+different	O
+reduction	B-Process
+to	O
+a	O
+system	O
+from	O
+the	O
+previously	O
+used	O
+one	O
+.	O
+	
+We	O
+find	O
+the	B-Data
+Levi	I-Data
+conditions	I-Data
+such	O
+that	O
+the	B-Data
+C∞	I-Data
+well	I-Data
+-	I-Data
+posedness	I-Data
+continues	O
+to	O
+hold	O
+.	O
+	

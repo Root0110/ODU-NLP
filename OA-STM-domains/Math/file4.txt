@@ -1,0 +1,63 @@
+-DOCSTART-	
+	
+We	O
+prove	O
+an	B-Data
+integrality	I-Data
+property	I-Data
+of	O
+the	B-Data
+Chern	I-Data
+character	I-Data
+with	O
+values	B-Data
+in	I-Data
+Chow	I-Data
+groups	I-Data
+.	O
+	
+As	O
+a	O
+consequence	O
+,	O
+we	O
+obtain	O
+a	B-Process
+construction	I-Process
+of	O
+the	B-Method
+p-1	I-Method
+first	I-Method
+homological	I-Method
+Steenrod	I-Method
+operations	I-Method
+on	O
+Chow	B-Data
+groups	I-Data
+modulo	B-Process
+p	I-Process
+and	I-Process
+p	I-Process
+-	I-Process
+primary	I-Process
+torsion	I-Process
+,	O
+over	O
+an	B-Data
+arbitrary	I-Data
+field	I-Data
+.	O
+	
+We	O
+provide	O
+applications	O
+to	O
+the	O
+study	O
+of	O
+correspondences	B-Process
+between	O
+algebraic	B-Data
+varieties	I-Data
+.	O
+	
